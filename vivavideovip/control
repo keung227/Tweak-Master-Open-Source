@@ -1,0 +1,10 @@
+Package: com.pxcex.vivavideovip
+Name: VivaVideo VIP
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Editing Video Tanpa Tanda Air dan Durasi Video Tanpa Batas
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Homepage: https://iosgods.com

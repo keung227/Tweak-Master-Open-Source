@@ -1,0 +1,10 @@
+Package: com.pxcex.followers+premium
+Name: Followers+ Premium
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: GRATIS All (Optional) Insights Pack, (Optional) Engagement Pack, Blocked Pack, Followers+ Pro, Followers+ Pro, (Optional) Facebook Pack, Pro Twitter Monitoring, Facebook Pro Monitoring Service, Followers+ Pro, Facebook Pro Monitoring Service. ENJOY!!!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Version: 0.0.1-4+debug
+Installed-Size: 124

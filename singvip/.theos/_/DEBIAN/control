@@ -1,0 +1,10 @@
+Package: com.pxcex.sing
+Name: Sing! VIP
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Akses Semua Fitur Sing! Karaoke Secara Gratis!!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 124

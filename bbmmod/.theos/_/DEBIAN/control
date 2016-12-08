@@ -1,0 +1,10 @@
+Package: com.pxcex.bbmmod
+Name: BBM Mod
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Version: 0.0.1-2+debug
+Installed-Size: 128

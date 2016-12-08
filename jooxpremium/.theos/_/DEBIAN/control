@@ -1,0 +1,10 @@
+Package: com.pxcex.jooxpremium
+Name: JOOX Premium
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Version: 0.0.1-3+debug
+Installed-Size: 124
