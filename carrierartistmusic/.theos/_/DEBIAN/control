@@ -1,0 +1,11 @@
+Package: com.pxcex.carrirartistmusic
+Name: Carrier Artist Music
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Custome carrier & changing carrier text to now-playing artist name
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Depiction: https://paxcex.github.io/depictions/com.pxcex.carrirartistmusic/index.html
+Version: 2.0.0
+Installed-Size: 556
